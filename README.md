@@ -35,4 +35,4 @@ js/app.js
 Transactions T1 to T5 are defined in `js/data.js`. The Banker's example uses 3 resource types (10, 5, 7 instances) and gives the safe sequence T2, T4, T5, T1, T3.
 
 ## Authors
-Name 1, Name 2 (Class 5th Sem, Section B)
+Name: Fiona Samuel, UID-24003140 (Class 5th Sem, Section B)
